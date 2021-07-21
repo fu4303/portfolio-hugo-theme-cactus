@@ -1,9 +1,9 @@
 {
 	"version": 3,
 	"file": "styles.css",
-	"sourceRoot": "/home/runner/work/hugo-theme-cactus/hugo-theme-cactus/cactus/exampleSite",
+	"sourceRoot": "/home/runner/work/portfolio-hugo-theme-cactus/portfolio-hugo-theme-cactus/cactus/exampleSite",
 	"sources": [
-		"/home/runner/work/hugo-theme-cactus/hugo-theme-cactus/cactus/assets/scss/style.scss",
+		"/home/runner/work/portfolio-hugo-theme-cactus/portfolio-hugo-theme-cactus/cactus/assets/scss/style.scss",
 		"../assets/scss/_variables.scss",
 		"../assets/scss/colors/white.scss",
 		"../assets/scss/_util.scss",
