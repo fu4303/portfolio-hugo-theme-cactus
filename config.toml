@@ -1,4 +1,4 @@
-baseURL = "https://example.com"
+baseURL = "https://hugo-cactus-test.netlify.app"
 languageCode = "en-us"
 title = "Cactus theme example"
 theme = "cactus"
